@@ -1,4 +1,4 @@
-<img width="1020" height="681" alt="image" src="https://github.com/user-attachments/assets/15054710-9802-4d3e-b4ea-8f446023e58c" /><H3>Name</H3>
+
 <H3>Register no.</H3>
 <H3>Date</H3>
 <H3>Experiment No. 2 </H3>
